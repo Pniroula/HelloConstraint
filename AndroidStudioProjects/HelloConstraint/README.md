@@ -4,7 +4,7 @@ Landscape
 TABLET
 ![Screenshot](tabConstraint3.png)
 Video
-![GIF](Constraint4.GIF)
+![GIF](Constraint4.gif)
 
 
 
